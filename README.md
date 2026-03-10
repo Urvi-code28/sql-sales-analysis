@@ -33,3 +33,12 @@ SELECT region, SUM(sales) AS total_sales
 FROM sales_data
 GROUP BY region
 ORDER BY total_sales DESC;
+
+## Key Insights
+
+- The West region generated the highest sales.
+- Product category analysis helps identify the best performing segments.
+- Sales distribution varies significantly across regions.
+
+
+
